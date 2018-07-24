@@ -1,5 +1,4 @@
-# Readme  
-#### git测试  
+# Readme   
 #### hibernate学习笔记  
 * [Day0716](src/Day0716.md)
 * [Day0717](src/Day0717.md)
